@@ -29,5 +29,5 @@
    * 	  ---------------------------------
   
  
-permalink: /:categories/:year/:month/:day/:title:output_ext
+
 testing
