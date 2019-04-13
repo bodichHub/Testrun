@@ -1,6 +1,4 @@
 /*
- * CS-499 Capstone Final Project 
- * Author: Jason Luu
  * 
  * All program source files should start with:
  * Name of the program: SNHU Travel
