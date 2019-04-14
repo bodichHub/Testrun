@@ -1,5 +1,5 @@
 
-**About this program**
+** About this program **
  
  All program source files should start with:
  Name of the program: SNHU Travel
