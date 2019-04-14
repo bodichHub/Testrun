@@ -14,7 +14,7 @@ And there is the last thing.
 #### First thing
 
 it does something.
-[pdf doc](x-github-client://openRepo/https://github.com/bodichHub/testrun?branch=master&filepath=doc_cloud.pdf)
+[pdf doc](https://github.com/bodichHub/testrun/find/master/doc_cloud.pdf)
 
   
 #### Second thing
