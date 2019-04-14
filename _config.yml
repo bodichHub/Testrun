@@ -1,5 +1,4 @@
-permalink: /:categories/:year/:month/:day/:title:output_ext
-{{ site.baseurl }}/pdfs/readMe.txt
+
 theme: jekyll-theme-slate
 title: Welcome to BoDich's homepage!
 description:  I am learning about GitHub Page's
