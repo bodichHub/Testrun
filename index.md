@@ -1,5 +1,5 @@
 
-# About this program
+# About these things
  
  All program source files should start with:
  Name of the program: 
@@ -9,19 +9,16 @@
  
   
  
-# testing
-  
-  Note: Using the follow user name and password for testing
-  
-  		User name		password
-## ---------------------------------        
-|Alpha		 	|One | 
-## ---------------------------------
-|Beta			  |Two	| 
-##  ---------------------------------
-|Delta 			|Java| 
-## ---------------------------------
-  
- 
+# First thing
 
 
+  
+# Second thing
+
+
+
+# Third thing
+
+
+
+# This .MOV
