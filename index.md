@@ -31,4 +31,4 @@
   
  
 
-<embed src="https://sumanbogati.github.io/ReadMe.txt" type="application/pdf" />
+
