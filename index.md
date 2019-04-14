@@ -13,8 +13,8 @@ And there is the last thing.
 #### First thing
 
 it does something.  
-[pdf doc](https://github.com/bodichHub/testrun/doc_cloud.pdf)
-[doc 2](https://espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf)
+[pdf doc](https://docs.google.com/viewer?url=https://github.com/bodichHub/testrun/raw/master/doc_cloud.pdf)
+[doc 2](https://docs.google.com/viewer?url=https://espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf)
 
   
 #### Second thing
