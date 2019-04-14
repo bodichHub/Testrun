@@ -2,4 +2,4 @@
 theme: jekyll-theme-slate
 title: Welcome to BoDich's homepage!
 description:  I am learning about GitHub Page's
-{{ site.baseurl }}/pdfs/readMe.txt
+
